@@ -1,0 +1,27 @@
+{
+   "validuser" :
+   {
+     "username": "Admin",
+     "password": "admin123"
+   },
+
+    "Pim" :
+    {
+      "firstName" : "Adiya",
+      "middleName" : "P",
+      "lastName" : "S",
+      "userName" : "adiya123",
+      "password" : "Adiya@123#",
+      "confirmPassword" : "Adiya@123#"
+
+    },
+    "Recruitment" :
+    {
+      "firstName" : "Adiya",
+      "lastName" : "P S",
+      "email" : "adiya@gmail.com"
+    }
+
+   
+
+}

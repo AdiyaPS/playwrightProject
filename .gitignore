@@ -1,0 +1,17 @@
+
+# Dependencies
+node_modules/
+
+# Test reports & outputs
+/playwright-report/
+/test-results/
+/test-image/
+/blob-report/
+/allure-results/
+
+# Auth & Cache
+/playwright/.cache/
+/playwright/.auth/
+
+# Environment Variables
+.env
